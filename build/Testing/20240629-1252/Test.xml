@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240629-1252-Experimental"
+	Name="khaled"
+	Generator="ctest-3.23.2"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="khaled"
+	OSRelease="5.15.0-113-generic"
+	OSVersion="#123~20.04.1-Ubuntu SMP Wed Jun 12 17:33:13 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="94"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15869"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="900.009"
+	>
+	<Testing>
+		<StartDateTime>Jun 29 16:40 EEST</StartDateTime>
+		<StartTestTime>1719668419</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 29 16:40 EEST</EndDateTime>
+		<EndTestTime>1719668419</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
